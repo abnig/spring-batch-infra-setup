@@ -32,5 +32,6 @@
 
 	<modules>
 		<module>config</module>
+		<module>mongo-config</module>
 	</modules>
 </project>
