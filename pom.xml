@@ -31,7 +31,7 @@
 	</dependencyManagement>
 
 	<modules>
-		<module>config</module>
+		<module>mysql-config</module>
 		<module>mongo-config</module>
 	</modules>
 </project>
